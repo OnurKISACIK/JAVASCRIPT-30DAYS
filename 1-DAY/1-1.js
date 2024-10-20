@@ -1,13 +1,13 @@
-let youTubeChannelName = "prototurk";
-let channelAge = 15;
-let channelActivity = true;
-let secondYoutubeChannel = null;
-let channelMoney = undefined;
-console.log(
-  typeof youTubeChannelName,
-  channelAge,
-  channelActivity,
-  secondYoutubeChannel,
-  channelMoney
-);
-console.log(typeof channelAge);
+//* ---------- 1ST DAY  ------------ */
+
+//* ELEMENTS: HTML AND CSS CODES CAN BE FOUND HERE
+
+//* CONSOLE: WE CAN WRITE JS CODES AND WE CAN SEE THE OUTPUTS
+
+//* SOURCE: SOURCE FILE YOU CAN CREATE SNIPPET CODE
+
+//* NETWORK: HTTP REQUEST RESPONSE CYCLE FOUND HERE AND ANYTHING RELATED THE NETWORK
+
+//* APPLICATION: BROWSER APPLICATIONS (STORAGE,CACHE)
+
+//! CTRL+SHIFT+I : WE CAN OPEN THE CONSOLE DIRECTLY

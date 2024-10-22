@@ -11,3 +11,21 @@
 //* APPLICATION: BROWSER APPLICATIONS (STORAGE,CACHE)
 
 //! CTRL+SHIFT+I : WE CAN OPEN THE CONSOLE DIRECTLY
+
+//* HOW TO WRITE CONSOLE OUR FIRST TEXT
+
+console.log("Hello World");
+//? Hello World
+
+//! ALSO WE CAN INSERT MORE PARAMETER WITH COMMAS
+
+console.log("Money", "Gold", "Silver");
+//? Money, Gold, Silver
+
+console.log("Hello", "World", 1985);
+//? Hello World 1985
+
+console.log("Happy", "New", "Year", 2000);
+//? Happy New Year 2000
+
+//* CONSOLE LOG CAN TAKE MULTIPLE ARGUMENTS
